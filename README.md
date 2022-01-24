@@ -1,1 +1,2 @@
-[![Fararay's GitHub stats](https://github-readme-stats.vercel.app/api?username=fararay&show_icons=true&theme=dark)](https://github.com/fararay/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=fararay&show_icons=true&theme=dark" height = "165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fararay&layout=compact&theme=merko&hide=css,html,jupyter%20notebook" height = "165">
